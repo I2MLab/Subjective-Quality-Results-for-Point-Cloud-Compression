@@ -1,4 +1,4 @@
 # Subjective-Quality-Results-for-Point-Cloud-Compression
-Solarized dark             |  Solarized Ocean         |Solarized dark         
+Proposed algorithm            |  Ref2        |Ref1        
 :-------------------------:|:-------------------------:|:---------------------
-![](/Images/1.png)  |  ![](/Images/2.png)    |  ![](/Images/2.png)
+![](/Images/Front_Loot_Proposed.png.png)  |  ![](/Images/Front_Loot_Ref2.png.png)    |  ![](/Images/Front_Loot_Ref1.png.png)
