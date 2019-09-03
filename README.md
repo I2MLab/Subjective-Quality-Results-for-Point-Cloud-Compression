@@ -1,5 +1,5 @@
 # Subjective-Quality-Results-for-Point-Cloud-Compression
-In this file, we provide subjective quality comparison of the proposed algorithm, Ref 2, Ref 1 for the sequences, Loot, Queen, and the Mideval Man. The visual results of the point clouds are measured on the 2-D images rendered from the point clouds. For each test sequence, three views are rendered using cube projection, i.e., Front view, Left view, and Top view. It should be noted that, these three sequences have different orentition. 
+In this file, we provide subjective quality comparison of the proposed algorithm, Ref 2, Ref 1 for the sequences, Loot, Queen, and the Mideval Man. The visual results of the point clouds are measured on the 2-D images rendered from the point clouds. For each test sequence, six views are rendered using cube projection, i.e., Front view, Back view, Left view, Right view, Top view, and Bottom view. For conciseness, we only show three of them for each sequence here.  It should be noted that, these three sequences have different orientations. 
 
 Proposed algorithm            |  Ref2        |Ref1        
 :-------------------------:|:-------------------------:|:---------------------
