@@ -21,7 +21,7 @@ Proposed algorithm            |  Ref2        |Ref1
 ![](/Images/Top_Queen_Proposed.png)  |  ![](/Images/Top_Queen_Ref2.png)    |  ![](/Images/Top_Queen_Ref1.png)
 
 
-The following lists the subjective quality results for the "Mideval Man" sequence.
+The following lists the subjective quality results for the "Medieval Man" sequence.
 
 Proposed algorithm            |  Ref2        |Ref1        
 :-------------------------:|:-------------------------:|:---------------------
